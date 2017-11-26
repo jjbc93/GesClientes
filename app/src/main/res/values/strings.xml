@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GesClientes</string>
+    <string name="initialBtn">Ver contactos</string>
+    <string name="initialText">Mi Agenda</string>
 </resources>
